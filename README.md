@@ -1,11 +1,7 @@
 ### mee
 
-<style>
-  #teste {
-    color: red
-  }
-</style>
-  <p id="teste">
+
+  <p style="color: blue">
   Olá, meu nome é Ronaldo e sou Desenvolvedor front end e UI Designer.
   Sou recém formado em análise e desenvolvimento de sistemas
   </p>
