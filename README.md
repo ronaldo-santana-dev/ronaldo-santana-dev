@@ -1,8 +1,14 @@
 ### mee
-<div style="width: 50px">
+
+<style>
+  #teste {
+    color: red
+  }
+</style>
+  <p id="teste">
   Olá, meu nome é Ronaldo e sou Desenvolvedor front end e UI Designer.
   Sou recém formado em análise e desenvolvimento de sistemas
-</div>
+  </p>
 
 - [Courses](https://www.treinaweb.com.br/cursos-online?q=fagner+pinheiro) 👨🏼‍🏫 - It's are technical courses on many technologies, such as Django, Flask <br>, Python, Kotlin, Flutter, Dart, Git and more
 - [Blog](https://www.treinaweb.com.br/blog/author/fagner-pinheiro/) ✍🏼 - I'm write about many things.
