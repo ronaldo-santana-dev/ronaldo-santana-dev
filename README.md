@@ -1,18 +1,34 @@
-### mee
+<div style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
 
-
-  <p style="color: blue">
-  Olá, meu nome é Ronaldo e sou Desenvolvedor front end e UI Designer.
-  Sou recém formado em análise e desenvolvimento de sistemas
+<div class="texto" style="width: 500px">  
+  <p >
+  Olá, meu nome é <strong>Ronaldo</strong> e sou <strong>Desenvolvedor Front end e UI Designer.</strong>
+  Sou recém formado em análise e desenvolvimento de sistemas.<br/>
   </p>
 
-- [Courses](https://www.treinaweb.com.br/cursos-online?q=fagner+pinheiro) 👨🏼‍🏫 - It's are technical courses on many technologies, such as Django, Flask <br>, Python, Kotlin, Flutter, Dart, Git and more
-- [Blog](https://www.treinaweb.com.br/blog/author/fagner-pinheiro/) ✍🏼 - I'm write about many things.
-- [Website](https://fagnerpsantos.dev/) 💻 - Working on it.
+  <p>
+    Durante o periodo da faculdade eu comecei a prestar mais atenção nos
+    elementos de uma interface e assim fui me apaixonando
+    pelo <strong>desenvolvimento front end.</strong> Desde então venho estudando as 
+    mais modernas do mercado desde a parte de <strong>UI/UX</strong> ao <strong>desenvolvimento.</strong>
+  </p>
+  <p>
+  🔥 Skills: <strong>HTML5, CSS3, SASS, Javascript ES6+, ReactJS, UI Design</strong>
+  🚀
+  </p>
+  <p>
+  🚀 Pretendo aprender: <strong>VueJS, Angular e React Native</strong>
+  </p>
+  <p>
+    📬 Quer falar comigo? Me mande uma mensagem em alguma dessas redes sociais abaixo!
+  </p>
+</div>
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ronaldo-santana-dev)](https://github.com/ronaldo-santana-dev)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ronaldo-santana-dev/)](https://www.linkedin.com/in/ronaldo-santana-dev/)
+  ![notebook](https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png)
+</div>
 
+<div align="center">
 
-![notebook](https://user-images.githubusercontent.com/46380494/93375890-2ff5a300-f82f-11ea-8f8e-58677af3c934.png)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ronaldo-santana-dev)](https://github.com/ronaldo-santana-dev) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ronaldo-santana-dev/)](https://www.linkedin.com/in/ronaldo-santana-dev/) <a href="mailto:ronaldosantana483@gmail.com" alt="Gmail"><img src="https://img.shields.io/badge/-ronaldosantana483@gmail.com-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=ronaldosantana483@gmail.com" /></a>
+</div>
 
