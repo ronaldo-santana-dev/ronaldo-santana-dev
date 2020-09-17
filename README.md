@@ -25,7 +25,7 @@
 </p>
 
 
-<div align="center">
+<div align="left">
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ronaldo-santana-dev)](https://github.com/ronaldo-santana-dev) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ronaldo-santana-dev/)](https://www.linkedin.com/in/ronaldo-santana-dev/) <a href="mailto:ronaldosantana483@gmail.com" alt="Gmail"><img src="https://img.shields.io/badge/-ronaldosantana483@gmail.com-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=ronaldosantana483@gmail.com" /></a>
+[![Linkedin Badge](https://img.shields.io/badge/-Ronaldo&nbsp;Santana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ronaldo-santana-dev/)](https://www.linkedin.com/in/ronaldo-santana-dev/) <a href="mailto:ronaldosantana483@gmail.com" alt="Gmail"><img src="https://img.shields.io/badge/-ronaldosantana483@gmail.com-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=ronaldosantana483@gmail.com" /></a>
 </div>
