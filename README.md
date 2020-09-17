@@ -6,8 +6,8 @@
 </p>
 <p align="left">
     Durante o periodo da faculdade eu comecei a prestar mais atenção nos
-    elementos de uma interface e assim fui me apaixonando
-    pelo <strong>desenvolvimento front end.</strong> Desde então venho estudando as 
+   detalhes dos elementos de uma interface e assim fui me apaixonando
+    pelo <strong>desenvolvimento front end.</strong> Desde então venho estudando as tecnologias 
     mais modernas do mercado desde a parte de <strong>UI/UX</strong> ao <strong>desenvolvimento.</strong>
 </p>
 
