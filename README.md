@@ -1,8 +1,4 @@
-<img src="https://raw.githubusercontent.com/ronaldo-santana-dev/myportfolio/master/src/assets/images/notebook.png" min-width="450px" max-width="450px" width="450px" align="right" alt="Computador ronaldo-santana-dev">
-<div>
-![notebook](https://user-images.githubusercontent.com/46380494/93494623-9cca7500-f8e3-11ea-8ba4-f4b14962b0a1.png)
-</div>
-
+<img src="https://raw.githubusercontent.com/ronaldo-santana-dev/myportfolio/master/src/assets/images/notebook.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador ronaldo-santana-dev">
 
 <p align="left">
   Olá, meu nome é <strong>Ronaldo</strong> e sou <strong>Desenvolvedor Front end e UI Designer.</strong>
